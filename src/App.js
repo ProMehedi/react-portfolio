@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import Preloader from './components/Preloader'
 import Projects from './components/Projects'
 import Screen from './components/Screen'
 
@@ -18,7 +19,7 @@ const App = () => {
   }, [])
 
   if (projects.length === 0) {
-    return <div>Loading...</div>
+    return <Preloader />
   }
 
   return (
