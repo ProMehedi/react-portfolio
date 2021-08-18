@@ -5,7 +5,7 @@ const Screen = ({ children }) => {
   return (
     <Container>
       <Row className='justify-content-center'>
-        <Col md={10} lg={8}>
+        <Col lg={10} xl={8}>
           {children}
         </Col>
       </Row>
