@@ -1,7 +1,8 @@
 import React from 'react'
+import Screen from './components/Screen'
 
 const App = () => {
-  return <div>My All Projects!</div>
+  return <Screen>My All Projects!</Screen>
 }
 
 export default App
