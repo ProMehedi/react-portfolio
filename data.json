@@ -38,6 +38,11 @@
         "link": "https://edamamapi.netlify.app/"
       },
       {
+        "name": "NextGull",
+        "desc": "Dashboard quickstart template build with NextJS & Material-UI",
+        "link": "https://next-gull.vercel.app/"
+      },
+      {
         "name": "NextEvents",
         "desc": "Events listing app with filtering feature using NextJS",
         "link": "https://nextevents.netlify.app/"
@@ -51,6 +56,11 @@
         "name": "Goreebfund",
         "desc": "Advanced Donation Form with data using Vanilla JavaScript",
         "link": "https://goreebfund.netlify.app/"
+      },
+      {
+        "name": "Goreebfund",
+        "desc": "Advanced Donation Form with data using Vanilla JavaScript",
+        "link": "https://solange-matteo.com/"
       }
     ]
   },
@@ -73,14 +83,64 @@
     "title": "WordPress & Elementor Projects",
     "data": [
       {
-        "name": "WordPress Project 1",
-        "desc": "This is project 1",
-        "link": "https://promehedi.com/"
+        "name": "Dakatia",
+        "desc": "Multivendor Ecommerce Website using MartFury Theme & Elementor Page Builder",
+        "link": "https://dakatia.com/"
       },
       {
-        "name": "WordPress Project 2",
-        "desc": "This is project 2",
-        "link": "https://promehedi.com/"
+        "name": "Startoy",
+        "desc": "Complete Ecommerce Website using Elementor Page Builder",
+        "link": "http://startoy.com/"
+      },
+      {
+        "name": "mattcmills",
+        "desc": "Matt Mills Coaching Website using Divi Theme",
+        "link": "https://mattcmills.com/"
+      },
+      {
+        "name": "Rhea Laboratory",
+        "desc": "Rhea Labrotory Co. Complete website using Elementor Page Builder",
+        "link": "https://rhealabsco.com/"
+      },
+      {
+        "name": "Lotus Properties",
+        "desc": "Property listing website using Elementor Page Builder",
+        "link": "https://lotusproperties.com/"
+      },
+      {
+        "name": "Executive Distributors",
+        "desc": "Floor Cleaning Courses website using Elementor Page Builder",
+        "link": "https://training.executivedistributors.com.au/"
+      },
+      {
+        "name": "Muud BD",
+        "desc": "A global leader in apparel sourcing and supply chain management Company website using Divi Theme",
+        "link": "https://muudbd.com/"
+      },
+      {
+        "name": "Crimepatrol News",
+        "desc": "News Portal website using JNEWS Theme & Elementor Page Builder",
+        "link": "https://crimepatrol.news/"
+      },
+      {
+        "name": "Natural Wonders Healthcare",
+        "desc": "Healthcare Services & Ecommece website using Elementor Page Builder",
+        "link": "https://naturalwondershealthcare.com/"
+      },
+      {
+        "name": "Claim to Get",
+        "desc": "Blogging & Affiliate website using Soledad Theme",
+        "link": "https://claimtoget.com/"
+      },
+      {
+        "name": "Mugtext",
+        "desc": "Digital Agency website using Elementor Page Builder",
+        "link": "https://mugtext.com/"
+      },
+      {
+        "name": "Digital Noble Man",
+        "desc": "Freelance SEO Consultant website using Divi Theme",
+        "link": "https://digitalnobleman.com/"
       }
     ]
   }
