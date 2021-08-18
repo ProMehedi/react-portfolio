@@ -1,5 +1,6 @@
 import React from 'react'
 import { Table } from 'react-bootstrap'
+import Project from './Project'
 
 const Projects = ({ data }) => {
   return (
@@ -18,20 +19,7 @@ const Projects = ({ data }) => {
             </thead>
             <tbody>
               {projects.data.map((project, index) => (
-                <tr key={index}>
-                  <td>{index + 1}</td>
-                  <td>{project.name}</td>
-                  <td>{project.desc}</td>
-                  <td>
-                    <a
-                      href={project.link}
-                      target='_blank'
-                      rel='noopener noreferrer'
-                    >
-                      {project.link}
-                    </a>
-                  </td>
-                </tr>
+                <Project project={project} serial={index} key={index} />
               ))}
             </tbody>
           </Table>
