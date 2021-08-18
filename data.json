@@ -1,5 +1,15 @@
 [
   {
+    "title": "MERN Projects",
+    "data": [
+      {
+        "title": "Proshop",
+        "description": "Ecommerce Website with ReactJS, Express, MongoDB",
+        "link": "https://pm-proshop.herokuapp.com/"
+      }
+    ]
+  },
+  {
     "title": "HTML, CSS / Web Design Projects",
     "data": [
       {
