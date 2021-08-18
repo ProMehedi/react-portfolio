@@ -3,9 +3,54 @@
     "title": "MERN Projects",
     "data": [
       {
-        "title": "Proshop",
-        "description": "Ecommerce Website with ReactJS, Express, MongoDB",
+        "name": "Proshop",
+        "desc": "Ecommerce Website with ReactJS, Express, MongoDB",
         "link": "https://pm-proshop.herokuapp.com/"
+      }
+    ]
+  },
+  {
+    "title": "ReactJS & ReactJS Projects",
+    "data": [
+      {
+        "name": "ReactTodo",
+        "desc": "TODO APP - BUILD WITH REACTJS",
+        "link": "https://pm-react-todo.netlify.app/"
+      },
+      {
+        "name": "Firegram",
+        "desc": "Upload Images to firebase. Upload Animation, Reordering Animation, Modal View images",
+        "link": "https://pm-firegram.netlify.app/"
+      },
+      {
+        "name": "NextBlog",
+        "desc": "Simgle & Complete Blog Website using NextJS, Markdown File Reader & Firebase",
+        "link": "https://next-blog-git-master-promehedi.vercel.app/"
+      },
+      {
+        "name": "Data Table",
+        "desc": "Data table with Search & Filtering using ReactJS",
+        "link": "https://pm-react-datatable.netlify.app/"
+      },
+      {
+        "name": "Edamam API",
+        "desc": "Recipe Search app using ReactJS & Edamam API",
+        "link": "https://edamamapi.netlify.app/"
+      },
+      {
+        "name": "NextEvents",
+        "desc": "Events listing app with filtering feature using NextJS",
+        "link": "https://nextevents.netlify.app/"
+      }
+    ]
+  },
+  {
+    "title": "Javascript Projects",
+    "data": [
+      {
+        "name": "Goreebfund",
+        "desc": "Advanced Donation Form with data using Vanilla JavaScript",
+        "link": "https://goreebfund.netlify.app/"
       }
     ]
   },
@@ -25,15 +70,15 @@
     ]
   },
   {
-    "title": "Javascript Projects",
+    "title": "WordPress & Elementor Projects",
     "data": [
       {
-        "name": "JS Project 1",
+        "name": "WordPress Project 1",
         "desc": "This is project 1",
         "link": "https://promehedi.com/"
       },
       {
-        "name": "JS Project 2",
+        "name": "WordPress Project 2",
         "desc": "This is project 2",
         "link": "https://promehedi.com/"
       }
