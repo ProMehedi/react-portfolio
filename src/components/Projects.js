@@ -8,7 +8,7 @@ const Projects = ({ data }) => {
       {data.map((projects, i) => (
         <div className='mb-5' key={i}>
           <h4 className='my-3'>{projects.title}</h4>
-          <Table striped bordered hover>
+          <Table striped bordered hover size='sm'>
             <thead>
               <tr>
                 <th>#</th>
