@@ -53,14 +53,39 @@
     "title": "Javascript Projects",
     "data": [
       {
+        "name": "Application Form",
+        "desc": "Advanced Multi-step application Form with add signature feature",
+        "link": "https://projects.promehedi.com/member-application-form/"
+      },
+      {
         "name": "Goreebfund",
         "desc": "Advanced Donation Form with data using Vanilla JavaScript",
         "link": "https://goreebfund.netlify.app/"
       },
       {
-        "name": "Goreebfund",
-        "desc": "Advanced Donation Form with data using Vanilla JavaScript",
-        "link": "https://solange-matteo.com/"
+        "name": "Contact Form",
+        "desc": "Form submission with ajax php & validation with Vanilla JavaScript",
+        "link": "https://projects.promehedi.com/form-submission"
+      },
+      {
+        "name": "Scrolling Animation",
+        "desc": "Horizontal Scrolling Animation using graphics & Vanilla JavaScript",
+        "link": "https://projects.promehedi.com/horizontal-scroll/"
+      },
+      {
+        "name": "Firewatch",
+        "desc": "Multi layers Parallax Scrolling effect ",
+        "link": "https://projects.promehedi.com/parallax/wagerfield/"
+      },
+      {
+        "name": "Wagerfield",
+        "desc": "Multi layers Animation & Parallax effect",
+        "link": "https://projects.promehedi.com/parallax/wagerfield/"
+      },
+      {
+        "name": "Login",
+        "desc": "Login page and validation using Vanilla JavaScript",
+        "link": "https://projects.promehedi.com/login-page/"
       }
     ]
   },
@@ -68,14 +93,74 @@
     "title": "HTML, CSS / Web Design Projects",
     "data": [
       {
-        "name": "HTML Project 1",
-        "desc": "This is project 1",
-        "link": "https://promehedi.com/"
+        "name": "Finix",
+        "desc": "Business Page Website HTML5 Template",
+        "link": "https://projects.promehedi.com/finix/"
       },
       {
-        "name": "HTML Project 2",
-        "desc": "This is project 2",
-        "link": "https://promehedi.com/"
+        "name": "Industrial",
+        "desc": "Industry and Engineering Services Template",
+        "link": "https://projects.promehedi.com/industrial/"
+      },
+      {
+        "name": "Traffic",
+        "desc": "Marketing HTML5 Template",
+        "link": "https://projects.promehedi.com/traffic/"
+      },
+      {
+        "name": "Qweex",
+        "desc": "Car wash Services Booking Landing Page",
+        "link": "https://projects.promehedi.com/qweex/"
+      },
+      {
+        "name": "Earnsanity",
+        "desc": "Earn Free Skins, Video Games & Cryptocurrencies",
+        "link": "https://projects.promehedi.com/earnsanity/"
+      },
+      {
+        "name": "Restaurant",
+        "desc": "Largest food socity landing page Template",
+        "link": "https://projects.promehedi.com/restaurant/"
+      },
+      {
+        "name": "Doctorseba",
+        "desc": "Find Doctor & Services HTML5 Template",
+        "link": "https://projects.promehedi.com/doctorseba/"
+      },
+      {
+        "name": "Regal",
+        "desc": "Parallax split animation & opt-in-form with php and ajax",
+        "link": "https://projects.promehedi.com/regal/"
+      },
+      {
+        "name": "Onezoo",
+        "desc": "Food & Goods Services Website Template",
+        "link": "https://projects.promehedi.com/onezoo/"
+      },
+      {
+        "name": "Igfx",
+        "desc": "Web Dev Agency HTML5 Template",
+        "link": "https://projects.promehedi.com/igfx/"
+      },
+      {
+        "name": "Paintzen",
+        "desc": "Paint Services Landing Page Template",
+        "link": "https://projects.promehedi.com/paintzen/"
+      },
+      {
+        "name": "Plymouth",
+        "desc": "Neuropathy & Regenerative Care Services Booking Landing Page",
+        "link": "https://projects.promehedi.com/plymouth/"
+      },
+      {
+        "name": "Swiss",
+        "desc": "Health Care Services Booking Landing Page",
+        "link": "https://projects.promehedi.com/swiss/"
+      },
+      {
+        "name": "Vip Deposits",
+        "desc": "Payment Services Website Template",
+        "link": "https://projects.promehedi.com/vipdeposits/"
       }
     ]
   },
