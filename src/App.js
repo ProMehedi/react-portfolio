@@ -24,6 +24,17 @@ const App = () => {
 
   return (
     <Screen>
+      <h5 className='my-4'>
+        My Portfolio site -{' '}
+        <a
+          title='Mehedi Hasan'
+          target='_blank'
+          href='https://promehedi.com/'
+          rel='noopener noreferrer'
+        >
+          ProMehedi.com
+        </a>
+      </h5>
       <Projects data={projects} />
     </Screen>
   )
