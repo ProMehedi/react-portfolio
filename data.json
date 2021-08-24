@@ -10,7 +10,7 @@
     ]
   },
   {
-    "title": "ReactJS & ReactJS Projects",
+    "title": "ReactJS & NextJS Projects",
     "data": [
       {
         "name": "ReactTodo",
@@ -21,6 +21,11 @@
         "name": "Firegram",
         "desc": "Upload Images to firebase. Upload Animation, Reordering Animation, Modal View images",
         "link": "https://pm-firegram.netlify.app/"
+      },
+      {
+        "name": "Chatroom",
+        "desc": "Chatroom app with React, Firebase & Firebase-auth",
+        "link": "https://pm-chatroom.netlify.app/"
       },
       {
         "name": "NextBlog",
@@ -52,6 +57,11 @@
   {
     "title": "Javascript Projects",
     "data": [
+      {
+        "name": "URL Shortener",
+        "desc": "URL Shrinker with NodeJS & MongoDB",
+        "link": "https://pm-url-shortener.herokuapp.com/"
+      },
       {
         "name": "Application Form",
         "desc": "Advanced Multi-step application Form with add signature feature",
