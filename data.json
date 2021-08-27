@@ -10,6 +10,26 @@
     ]
   },
   {
+    "title": "React Native Projects",
+    "data": [
+      {
+        "name": "FocusTime",
+        "desc": "React Native(expo) app for Time Tracking what would you like to focus on!",
+        "link": "https://expo.dev/@promehedi2/rn-focustime"
+      },
+      {
+        "name": "Carousel",
+        "desc": "React Native(expo) Carousel with special gradiant effect & fade animation",
+        "link": "https://expo.dev/@promehedi2/rnCarousel"
+      },
+      {
+        "name": "Pexels Gallery",
+        "desc": "Gallery with Pexels API images and scroll with thumb navigation",
+        "link": "https://expo.dev/@promehedi2/pexelsGgallerySynced"
+      }
+    ]
+  },
+  {
     "title": "ReactJS & NextJS Projects",
     "data": [
       {
