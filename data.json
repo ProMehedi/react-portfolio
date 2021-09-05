@@ -13,6 +13,11 @@
     "title": "React Native Projects",
     "data": [
       {
+        "name": "MealsToGo",
+        "desc": "Restaurants Listing App With Maps & Profile Building Feature using React Native(expo)",
+        "link": "https://expo.dev/@promehedi2/MealsToGo"
+      },
+      {
         "name": "FocusTime",
         "desc": "React Native(expo) app for Time Tracking what would you like to focus on!",
         "link": "https://expo.dev/@promehedi2/rn-focustime"
@@ -36,6 +41,11 @@
         "name": "ReactTodo",
         "desc": "TODO APP - BUILD WITH REACTJS",
         "link": "https://pm-react-todo.netlify.app/"
+      },
+      {
+        "name": "Currency Exchanger",
+        "desc": "Currency Exchange/Converter App with ReatJS, Semantic-UI, Styled-Components & exchangerate API",
+        "link": "https://pm-currency.netlify.app/"
       },
       {
         "name": "Firegram",
