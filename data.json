@@ -5,7 +5,8 @@
       {
         "name": "Proshop",
         "desc": "Ecommerce Website with ReactJS, Express, MongoDB",
-        "link": "https://pm-proshop.herokuapp.com/"
+        "link": "https://pm-proshop.herokuapp.com/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/a7dc8a90-073c-42e6-8734-fd28d22a5653.jpeg"
       }
     ]
   },
@@ -15,7 +16,8 @@
       {
         "name": "MealsToGo",
         "desc": "Restaurants Listing App With Maps & Profile Building Feature using React Native(expo)",
-        "link": "https://expo.dev/@promehedi2/MealsToGo"
+        "link": "https://expo.dev/@promehedi2/MealsToGo",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/c309bedd-c63c-4ae1-9f84-278e52881ec7.jpeg"
       },
       {
         "name": "FocusTime",
