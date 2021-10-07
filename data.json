@@ -105,37 +105,38 @@
       {
         "name": "Application Form",
         "desc": "Advanced Multi-step application Form with add signature feature",
-        "link": "https://projects.promehedi.com/member-application-form/"
+        "link": "https://projects.promehedi.com/member-application-form/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/3fc273b5-0554-4b13-aaeb-e836cbbc9440.jpeg"
       },
       {
         "name": "Goreebfund",
         "desc": "Advanced Donation Form with data using Vanilla JavaScript",
-        "link": "https://goreebfund.netlify.app/"
+        "link": "https://goreebfund.netlify.app/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/cfbc09e6-92e6-4859-8517-d4312b1a4eef.jpeg"
       },
       {
         "name": "Contact Form",
         "desc": "Form submission with ajax php & validation with Vanilla JavaScript",
-        "link": "https://projects.promehedi.com/form-submission"
+        "link": "https://projects.promehedi.com/form-submission",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/103f024d-4069-491a-bf7f-4c968f4f6e78.jpeg"
       },
       {
         "name": "Scrolling Animation",
         "desc": "Horizontal Scrolling Animation using graphics & Vanilla JavaScript",
-        "link": "https://projects.promehedi.com/horizontal-scroll/"
+        "link": "https://projects.promehedi.com/horizontal-scroll/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/e9d821e6-4ed0-4e11-b7a1-6f1ae583654f.jpeg"
       },
       {
         "name": "Firewatch",
         "desc": "Multi layers Parallax Scrolling effect ",
-        "link": "https://projects.promehedi.com/parallax/wagerfield/"
+        "link": "https://projects.promehedi.com/parallax/scrolling-animation/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/cee2c198-0f73-4601-bbce-d305f751ecd4.jpeg"
       },
       {
         "name": "Wagerfield",
         "desc": "Multi layers Animation & Parallax effect",
-        "link": "https://projects.promehedi.com/parallax/wagerfield/"
-      },
-      {
-        "name": "Login",
-        "desc": "Login page and validation using Vanilla JavaScript",
-        "link": "https://projects.promehedi.com/login-page/"
+        "link": "https://projects.promehedi.com/parallax/wagerfield/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/6d444e80-09de-45b3-8cbf-45ebb804fbff.jpeg"
       }
     ]
   },
@@ -145,7 +146,8 @@
       {
         "name": "Finix",
         "desc": "Business Page Website HTML5 Template",
-        "link": "https://projects.promehedi.com/finix/"
+        "link": "https://projects.promehedi.com/finix/",
+        "image": "https://d3k81ch9hvuctc.cloudfront.net/company/NvANSN/images/1921fa4b-3322-446b-bbeb-ee7cf7ba7100.jpeg"
       },
       {
         "name": "Industrial",
